@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 杨青云的网络日志
+title: 前端开发小站
 subtitle: ''
 description: ''
 keywords:
@@ -93,7 +93,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: ayer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
