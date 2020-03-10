@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.eysem.com/"/>
-  <updated>2020-03-09T08:55:06.961Z</updated>
+  <updated>2020-03-10T17:56:31.234Z</updated>
   <id>https://www.eysem.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用vue和webpack工程化开发apicloud平台应用</title>
+    <link href="https://www.eysem.com/2020/03/10/%E4%BD%BF%E7%94%A8vue%E5%92%8Cwebpack%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BC%80%E5%8F%91apicloud%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8/"/>
+    <id>https://www.eysem.com/2020/03/10/%E4%BD%BF%E7%94%A8vue%E5%92%8Cwebpack%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BC%80%E5%8F%91apicloud%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8/</id>
+    <published>2020-03-10T14:52:01.000Z</published>
+    <updated>2020-03-10T17:56:31.234Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://www.apicloud.com/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="vue" scheme="https://www.eysem.com/tags/vue/"/>
+    
+      <category term="webpack" scheme="https://www.eysem.com/tags/webpack/"/>
+    
+      <category term="apicloud" scheme="https://www.eysem.com/tags/apicloud/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
