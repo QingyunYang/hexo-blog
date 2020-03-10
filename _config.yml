@@ -99,7 +99,9 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:QingyunYang/hexo-blog.git
+  branch: deloy
 
 # Hexo-generator-search
 search:
