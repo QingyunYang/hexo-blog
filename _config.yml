@@ -101,7 +101,7 @@ theme: ayer
 deploy:
   type: git
   repo: git@github.com:QingyunYang/hexo-blog.git
-  branch: deloy
+  branch: deploy
 
 # Hexo-generator-search
 search:
